@@ -1,2 +1,0 @@
-GRE vocabulary Mind Map
-
