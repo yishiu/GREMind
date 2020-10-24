@@ -64,14 +64,14 @@
 <node CREATED="1590163621185" ID="ID_820422531" MODIFIED="1590163848824" TEXT="replicate : repeat&#x8907;&#x88fd;(recreation)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590163863211" ID="ID_650964884" MODIFIED="1590370208114">
+<node CREATED="1590163863211" ID="ID_650964884" MODIFIED="1603349981650">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      imitate : copy the way sb behaves&#20223;&#25928; &lt;image&gt;
+      imitate : copy the way sb behaves &#20223;&#25928; &lt;im &#38899;&#20687;&#26159;image&gt;
     </p>
   </body>
 </html></richcontent>
@@ -102,14 +102,14 @@
 <edge COLOR="#808080" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590370091929" ID="ID_673520252" MODIFIED="1590371137775">
+<node CREATED="1590370091929" ID="ID_673520252" MODIFIED="1603349612724">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      intimate : 1. close relationship &#35242;&#23494;(a) 2. hint (v)
+      intimate : 1. close relationship &#35242;&#23494;(a) 2. hint (v)&#160;&#160;&lt;mate&gt;
     </p>
   </body>
 </html></richcontent>
@@ -157,7 +157,7 @@
 <node CREATED="1591512238420" ID="ID_1139409626" MODIFIED="1591512333374" TEXT="restive (a) &#x7126;&#x8e81;&#x4e0d;&#x5b89;&#xff0c;&#x96e3;&#x99d5;&#x99ad;&#x7684;= restless">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591512244573" ID="ID_892133190" MODIFIED="1591512255765" TEXT="irritable">
+<node CREATED="1591512244573" ID="ID_892133190" MODIFIED="1603351296857" TEXT="irritable : irritate &#x7684; adj">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1591512248133" ID="ID_1805940577" MODIFIED="1591512715359" TEXT="irascible :&lt;ira: rage&gt; = irate">
@@ -195,14 +195,14 @@
 <node CREATED="1592376166248" ID="ID_883802335" MODIFIED="1592376179914" TEXT="crotchety (a)bad-tempered">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591516737438" ID="ID_1334027669" MODIFIED="1591516912908">
+<node CREATED="1591516737438" ID="ID_1334027669" MODIFIED="1603355275685">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      grouchy (a)&#26131;&#24594;&#30340;&#65292;&#24859;&#25265;&#24616;&#30340;
+      grouchy (a)&#26131;&#24594;&#30340;&#65292;&#24859;&#25265;&#24616;&#30340; &lt;&#25303;&#65292;&#25265;&#24616;&gt;
     </p>
   </body>
 </html></richcontent>
@@ -216,7 +216,7 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1591517065654" ID="ID_152115050" MODIFIED="1591517708387" TEXT="gauche (a) clumsy&#x7b28;&#x62d9;&#x7684;">
+<node CREATED="1591517065654" ID="ID_152115050" MODIFIED="1603355231109" TEXT="gauche (a) clumsy&#x7b28;&#x62d9;&#x7684; &lt;&#x72d7;ish&gt;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1591517716620" ID="ID_1862340927" MODIFIED="1591517744490" TEXT="gaudy (a) &#x904e;&#x5206;&#x83ef;&#x9e97; = outlandish">
 <node CREATED="1591517750326" ID="ID_1750780216" MODIFIED="1591517854271" TEXT="garish (a)&#x4fd7;&#x8277;&#xff0c;&#x82b1;&#x4fcf;">
@@ -417,14 +417,14 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1591639114692" ID="ID_1213850819" MODIFIED="1591639241157">
+<node CREATED="1591639114692" ID="ID_1213850819" MODIFIED="1603355420408">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      elude (v) : &lt;e/ex : out&gt; + &lt;lud : play&gt; =&gt; 1&#36530;&#36991;&#65292;2&#19981;&#33021;&#23526;&#29694;
+      elude (v) : &lt;e/ex : out&gt; + &lt;lud : play&gt; =&gt; 1&#36530;&#36991;(not be caught)&#65292;2&#19981;&#33021;&#23526;&#29694;(not achieve)
     </p>
   </body>
 </html></richcontent>
@@ -445,20 +445,41 @@
 </node>
 <node CREATED="1591639408369" ID="ID_1213223538" MODIFIED="1591643826975" TEXT="hermetic :1.&#x5bc6;&#x5c01;&#x7684; 2.&#x8207;&#x4e16;&#x9694;&#x7d55;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
+<node CREATED="1603355837863" ID="ID_700006804" MODIFIED="1603355851224" TEXT="hermit (n) &#x96b1;&#x8005;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
-<node CREATED="1591639410970" ID="ID_1955250288" MODIFIED="1591643826775" TEXT="abstruse (a)">
+</node>
+<node CREATED="1591639410970" ID="ID_1955250288" MODIFIED="1603355811011" TEXT="abstruse (a) &lt;ab: away&gt; + &lt;truse : thrust&#x6233;&gt; &#x5411;&#x5916;&#x6233; =&gt; &#x8d85;&#x51fa;&#x7406;&#x89e3; =&gt; hard to understand">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+<node CREATED="1603359702533" ID="ID_600077547" MODIFIED="1603359765460" TEXT="&lt;truse : thrust &#x6233;&gt;">
+<edge COLOR="#808080" STYLE="bezier"/>
+<node CREATED="1603359767364" ID="ID_1418840823" MODIFIED="1603360178547" TEXT="obtrude (v) &lt;trude : thrust&gt;1.  &#x6253;&#x64fe; = intrude 2. thrust out = extrude">
+<node CREATED="1603360040892" ID="ID_167268687" MODIFIED="1603360098938" TEXT="obtrusive (a) &#x51fa;&#x98a8;&#x982d;&#x7684;&#xff0c;&#x7a81;&#x51fa;&#x7684;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+</node>
+<node CREATED="1603359891104" ID="ID_778987757" MODIFIED="1603359926699" TEXT="intrude (v)&lt;in&gt; + &lt;trude: thrust&gt; &#x95d6;&#x5165;&#xff0c;&#x6253;&#x64fe; ">
+<node CREATED="1603360108522" ID="ID_1391909975" MODIFIED="1603360120313" TEXT="intrusive (a) &#x6253;&#x64fe;&#x7684;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+</node>
+<node CREATED="1603359961277" ID="ID_671793632" MODIFIED="1603360241010" TEXT="extrude (v) (&#x901a;&#x904e;&#x72f9;&#x5c0f;&#x7684;&#x51fa;&#x53e3;)&#x64e0;&#x58d3;&#x51fa;">
+<node CREATED="1603359980381" ID="ID_1317412777" MODIFIED="1603360003420" TEXT="aluminum extrusion (n) &#x92c1;&#x64e0;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1591643783133" ID="ID_231129780" MODIFIED="1603355543852" TEXT="abstract 1. &#x62bd;&#x8c61;&#x7684; 2. (n) &#x6458;&#x8981;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591643783133" ID="ID_231129780" MODIFIED="1591643826576" TEXT="abstract">
+<node CREATED="1591639418969" ID="ID_683852310" MODIFIED="1603355576458" TEXT="arcane : mysterious and known by a few people">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591639418969" ID="ID_683852310" MODIFIED="1591643826319" TEXT="arcane">
+<node CREATED="1591639623403" ID="ID_657202002" MODIFIED="1603355639161" TEXT="obscure (a) 1. &#x7121;&#x540d;&#x7684;(not known) 2. not clear and difficult to understand = elusive ">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591639623403" ID="ID_657202002" MODIFIED="1591643825870" TEXT="obscure (a)">
-<edge COLOR="#0000ff" STYLE="bezier"/>
-</node>
-<node CREATED="1591643760012" ID="ID_1837782145" MODIFIED="1591643825705" TEXT="opaque">
+<node CREATED="1591643760012" ID="ID_1837782145" MODIFIED="1603355695863" TEXT="opaque (a) 1. &#x4e0d;&#x900f;&#x660e;&#x7684; 2. hard to understand = elusive ">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1591643779173" ID="ID_1008200958" MODIFIED="1591643824936" TEXT="enigmatic :&lt;nig:black&gt; ">
@@ -466,6 +487,9 @@
 <node CREATED="1591643832887" ID="ID_614409279" MODIFIED="1591643838735" TEXT="enigma (n)">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
+</node>
+<node CREATED="1603355447380" ID="ID_1915196627" MODIFIED="1603355484129" TEXT="exclusive (a) &#x6392;&#x9664;&#x7684;&#xff0c;&#x7368;&#x5bb6;&#x7684;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
 </node>
 </node>
@@ -497,37 +521,43 @@
 <node CREATED="1590370743159" ID="ID_797611705" MODIFIED="1590371086781" TEXT="immediate (adv) = at once">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
-<node CREATED="1590370778969" ID="ID_1979585014" MODIFIED="1590371060198">
+<node CREATED="1590370778969" ID="ID_1979585014" MODIFIED="1603349875396">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      meditate (v) :&#160;&#160;think deeply &#20901;&#24819; &#28145;&#24605;&lt;measure&gt;
+      meditate (v) :&#160;&#160;think deeply &#20901;&#24819; &#28145;&#24605;&lt;me&#30340;&#38899; &#20687;&#26159; measure&gt;
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1590370947168" ID="ID_15670097" MODIFIED="1590387899524" STYLE="bubble" TEXT="contemplate : 1. meditate on 2. &#x76e4;&#x7b97;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1591263971930" ID="ID_1925693578" MODIFIED="1591264044957" TEXT="contempt (v)  &#x9119;&#x8996;"/>
+<node CREATED="1591263971930" ID="ID_1925693578" MODIFIED="1603350300454" TEXT="contempt (v)  &#x9119;&#x8996;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
+<linktarget COLOR="#0000ff" DESTINATION="ID_1925693578" ENDARROW="Default" ENDINCLINATION="1937;0;" ID="Arrow_ID_6342469" SOURCE="ID_522733072" STARTARROW="Default" STARTINCLINATION="1937;0;"/>
+</node>
 </node>
 <node CREATED="1590964315819" ID="ID_572587346" MODIFIED="1590964361757" TEXT="cerebrate : &lt; cereb : brain&gt; &#x52d5;&#x8166;&#x601d;&#x8003;(v)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1590964362357" ID="ID_1055114256" MODIFIED="1590964378598" TEXT="cerebral (a) relating to brain">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
+<node CREATED="1603356183116" ID="ID_1204813685" MODIFIED="1603356206157" TEXT="celebrate (v) &#x6176;&#x795d;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
+</node>
 </node>
 <node CREATED="1590371047725" ID="ID_1677393297" MODIFIED="1590371055285" TEXT="meditation (n)">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
-<node CREATED="1590387920651" ID="ID_1110946583" MODIFIED="1590387993571" TEXT="mediate : &#x8abf;&#x505c; ">
+<node CREATED="1590387920651" ID="ID_1110946583" MODIFIED="1603349897329" TEXT="mediate : &#x8abf;&#x505c; &lt;med &#x7684;&#x97f3;&#x50cf;&#x662f; medium&gt;">
 <node CREATED="1590387996494" ID="ID_415823779" MODIFIED="1590388011071" TEXT="&lt;med : middle&#x4e2d;&#x9593;&gt;">
 <edge COLOR="#808080" STYLE="bezier"/>
 <node CREATED="1590388107021" ID="ID_340642110" MODIFIED="1590388128090" TEXT="mediocre : &lt;med: &#x4e2d;&#x9593;&gt; =&gt; &#x4e2d;&#x5eb8;&#x7684;"/>
 </node>
-<node CREATED="1590388015279" ID="ID_1922047066" MODIFIED="1590388022512" TEXT="intercede">
+<node CREATED="1590388015279" ID="ID_1922047066" MODIFIED="1603349822611" TEXT="intercede (v) &#x6c42;&#x60c5;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1590388023440" ID="ID_1804469148" MODIFIED="1590388035745" TEXT="intervene">
@@ -537,7 +567,8 @@
 </node>
 </node>
 </node>
-<node CREATED="1590163569030" ID="ID_1188685234" MODIFIED="1590163587916" TEXT="explicate (v) : explain, illustrate">
+<node CREATED="1590163569030" ID="ID_1188685234" MODIFIED="1603356336245" TEXT="explicate (v) : &lt;ex:out&gt; + &lt;pli:fold&gt; &#x5411;&#x5916;&#x6298; =&gt; explain, illustrate">
+<linktarget COLOR="#0000ff" DESTINATION="ID_1188685234" ENDARROW="Default" ENDINCLINATION="759;0;" ID="Arrow_ID_382100176" SOURCE="ID_862553376" STARTARROW="Default" STARTINCLINATION="759;0;"/>
 <node CREATED="1590163589262" ID="ID_1881947491" MODIFIED="1590389521172">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -565,7 +596,7 @@
 <node CREATED="1590388629749" ID="ID_1980859610" MODIFIED="1590388634386" TEXT="lucid (a) ">
 <node CREATED="1590389665789" ID="ID_1821833245" MODIFIED="1590389683363" TEXT="1. clearly expressed&#x8868;&#x9054;&#x6e05;&#x695a;&#x7684;"/>
 <node CREATED="1590389684374" ID="ID_1656714543" MODIFIED="1590389699451" TEXT="2. transparent &#x900f;&#x5149;&#x7684;"/>
-<node CREATED="1590389705614" ID="ID_959566733" MODIFIED="1590425304391" TEXT="lurid (a) : 1. &#x5149;&#x5f69;&#x8000;&#x773c;&#x7684; 2. violent and shocking">
+<node CREATED="1590389705614" ID="ID_959566733" MODIFIED="1603356607016" TEXT="lurid (a) : 1. brightly colored &#x5149;&#x5f69;&#x8000;&#x773c;&#x7684; 2. violent and shocking">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1590389829636" ID="ID_893494213" MODIFIED="1590425308127">
 <richcontent TYPE="NODE"><html>
@@ -582,7 +613,7 @@
 <node CREATED="1590389775907" ID="ID_34254459" MODIFIED="1590389998164" TEXT="ghastly : &lt;ghost&gt;: causing horror or fear">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590389784250" ID="ID_949090485" MODIFIED="1590389805043" TEXT="grisly">
+<node CREATED="1590389784250" ID="ID_949090485" MODIFIED="1603356732809" TEXT="grisly (a) : inspiring horror or fear">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1590389790914" ID="ID_336829304" MODIFIED="1590389805252" TEXT="gruesome (a)">
@@ -595,8 +626,8 @@
 </node>
 </node>
 <node CREATED="1590400290118" ID="ID_442859077" MODIFIED="1590400343653" TEXT="pellucid (a) = lucid"/>
-<node CREATED="1590936632284" ID="ID_1535172244" MODIFIED="1590936803333" TEXT="luminous (a) bright">
-<node CREATED="1590936961781" ID="ID_1006536534" MODIFIED="1592398033294" TEXT="lugubrious (a) &lt;lug : break&gt; &#x9670;&#x9b31;&#x7684;&#xff0c;&#x60b2;&#x54c0;&#x7684;">
+<node CREATED="1590936632284" ID="ID_1535172244" MODIFIED="1603357122669" TEXT="luminous (a) 1. reflecting bright light 2. enlightening&#x555f;&#x767c;&#x7684; and clear">
+<node CREATED="1590936961781" ID="ID_1006536534" MODIFIED="1603357008336" TEXT="lugubrious (a) &lt;lug : break&gt; &#x9670;&#x9b31;&#x7684;&#xff0c;&#x60b2;&#x54c0;&#x7684; &lt;&#x97f3;:&#x9732;&#x80a1;&#x7684;=&gt; &#x60b2;&#x50b7;&#x7684;&gt;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1590937090523" ID="ID_1737411774" MODIFIED="1590937250172" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
@@ -634,7 +665,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1590937098588" ID="ID_1702402629" MODIFIED="1590937149472" TEXT="dismal">
+<node CREATED="1590937098588" ID="ID_1702402629" MODIFIED="1603356905923" TEXT="dismal (a) sad and without hope">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1590937105108" ID="ID_1847306859" MODIFIED="1590937149765" TEXT="mournful">
@@ -656,13 +687,13 @@
 </node>
 </node>
 <node CREATED="1590936664823" ID="ID_730212689" MODIFIED="1590964566205" TEXT="luster (n) = soft brightness of a smooth or shining surface &#x5149;&#x6fa4;">
-<node CREATED="1590936717978" ID="ID_1219680412" MODIFIED="1590936803333" TEXT="lustrous (a)">
+<node CREATED="1590936717978" ID="ID_1219680412" MODIFIED="1603357212011" TEXT="lustrous (a) = shiny">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 <node CREATED="1590936806230" ID="ID_1304543837" MODIFIED="1590936810743" TEXT="luminous (a)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590936819087" ID="ID_168394237" MODIFIED="1590964583664" TEXT="sheen (n)">
+<node CREATED="1590936819087" ID="ID_168394237" MODIFIED="1603357231530" TEXT="sheen (n) &#x5149;&#x5f69;&#xff0c;&#x5149;&#x6fa4;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
@@ -670,14 +701,14 @@
 </node>
 </node>
 <node CREATED="1590164287831" ID="ID_599296924" MODIFIED="1590165690376" TEXT="supplicate (v) : &lt;sub&#x4e0b; + pli(fold)&gt; : beg">
-<node CREATED="1590164442135" ID="ID_1426376362" MODIFIED="1591267714863">
+<node CREATED="1590164442135" ID="ID_1426376362" MODIFIED="1603360494683">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      adjure : to request sb earnestly or solemnly 1&#22196;&#20196;2&#25031;&#27714;
+      adjure : to request sb earnestly or solemnly<br />&lt;ad : to&gt; + &lt;jure : swear&gt; : &#35201;&#20154;&#30332;&#35475;=&gt; 1. &#25031;&#27714;&#65292; 2. &#22196;&#26684;&#21629;&#20196;
     </p>
   </body>
 </html></richcontent>
@@ -688,7 +719,7 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1590164930028" ID="ID_426608589" MODIFIED="1590165380325" TEXT="abdicate : to resign from or renounce the throne : &#x9000;&#x4f4d;"/>
 </node>
-<node CREATED="1590166048119" ID="ID_463041983" MODIFIED="1590166090325" TEXT="recant : &lt;re : back + cant : chant&#x541f;&#x8aa6;)">
+<node CREATED="1590166048119" ID="ID_463041983" MODIFIED="1603359392378" TEXT="recant : &lt;re : back + cant : chant&#x541f;&#x8aa6;) &#x5ba3;&#x5e03;&#x653e;&#x68c4;(&#x4ee5;&#x524d;&#x7684;&#x4fe1;&#x4ef0;)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1590164559795" ID="ID_1577203062" MODIFIED="1590166106093" TEXT="retract : &lt;re : back + track : draw&gt; &#x62c9;&#x56de; = withdraw">
@@ -701,12 +732,11 @@
 <node CREATED="1590396635003" ID="ID_323877442" MODIFIED="1590396654980" TEXT="conjure up (v) &#x60f3;&#x8d77;...">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
-<node CREATED="1592656000669" ID="ID_1541504844" MODIFIED="1592656031458" TEXT="perjure (a) &lt;per: away&gt; + &lt;jure: swear&gt; =&gt; &#x767c;&#x5047;&#x8a93;"/>
+<node CREATED="1592656000669" ID="ID_1541504844" MODIFIED="1603359076296" TEXT="perjure (a) &lt;per: away&gt; + &lt;jure: swear&gt; =&gt; &#x767c;&#x5047;&#x8a93;">
+<edge COLOR="#808080" STYLE="bezier"/>
+</node>
 <node CREATED="1590164740763" ID="ID_210107999" MODIFIED="1590164754444" TEXT="adjuration (n) : &#x61c7;&#x6c42;">
 <edge COLOR="#ff0033" STYLE="bezier"/>
-</node>
-<node CREATED="1590388845350" ID="ID_852986237" MODIFIED="1590388894506" TEXT="&lt;ad : to&gt; + &lt;jure : swear&gt; : &#x8981;&#x4eba;&#x767c;&#x8a93;=&gt; &#x61c7;&#x6c42;&#xff0c;&#x56b4;&#x4ee4;">
-<edge COLOR="#808080" STYLE="bezier"/>
 </node>
 <node CREATED="1591267727082" ID="ID_1471997321" MODIFIED="1591267745203" TEXT="1 &#x56b4;&#x4ee4; ">
 <edge COLOR="#808080" STYLE="bezier"/>
@@ -728,6 +758,9 @@
 <node CREATED="1591267924755" ID="ID_1893570471" MODIFIED="1591267981822" TEXT="coherence (n) &#x9023;&#x8cab;&#x6027;">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
+<node CREATED="1602597094713" ID="ID_1353309732" MODIFIED="1602597120596" TEXT="coerce (v) &#x5f37;&#x5236;&#xff0c;&#x5f37;&#x8feb;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
+</node>
 </node>
 <node CREATED="1591267874784" ID="ID_146555772" MODIFIED="1591267877577" TEXT="stick to">
 <edge COLOR="#0000ff" STYLE="bezier"/>
@@ -739,17 +772,17 @@
 </node>
 </node>
 </node>
-<node CREATED="1590164461367" ID="ID_199447281" MODIFIED="1590164467567" TEXT="beseech">
+<node CREATED="1590164461367" ID="ID_199447281" MODIFIED="1603359141010" TEXT="beseech (v) &#x54c0;&#x6c42;&#xff0c;&#x61c7;&#x6c42;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590164448622" ID="ID_326953673" MODIFIED="1590515984216">
+<node CREATED="1590164448622" ID="ID_326953673" MODIFIED="1603359257512">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      importune (v): ask sb persistently &#30828;&#35201;&#65292;&#24375;&#27714;
+      importune (v): &lt;import : &#36914;&#21475;&gt; ask sb persistently &#30828;&#35201;&#65292;&#24375;&#27714;
     </p>
   </body>
 </html></richcontent>
@@ -768,7 +801,7 @@
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590164458031" ID="ID_1102215007" MODIFIED="1590164471923" TEXT="entreat">
+<node CREATED="1590164458031" ID="ID_1102215007" MODIFIED="1603359190575" TEXT="entreat = beg">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1592186814848" ID="ID_271053057" MODIFIED="1592186869596" TEXT="solicit (v) to ask for sth earnestly">
@@ -797,7 +830,7 @@
 <node CREATED="1592309163553" ID="ID_1522067168" MODIFIED="1592309193556" TEXT="culprit (n)&#x7f6a;&#x72af;&#xff0c;&#x7f6a;&#x9b41;&#x798d;&#x9996;"/>
 </node>
 </node>
-<node CREATED="1592187229080" ID="ID_995754711" MODIFIED="1592187247337" TEXT="exonerate">
+<node CREATED="1592187229080" ID="ID_995754711" MODIFIED="1603359674627" TEXT="exonerate &lt;ex:out&gt; + &lt;oner : burden&#x8ca0;&#x64d4;&gt; =&gt; &#x514d;&#x65bc;&#x8cac;&#x96e3;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1592187234985" ID="ID_1366152382" MODIFIED="1592187247737" TEXT="vindicate">
@@ -824,48 +857,51 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1590165803452" ID="ID_862553376" MODIFIED="1590401686772" TEXT="explicit : &lt;ex : out&gt; : &#x6e05;&#x695a; &#x76f4;&#x7387;"/>
+<node CREATED="1590165803452" ID="ID_862553376" MODIFIED="1603356341725" TEXT="explicit : &lt;ex : out&gt; : &#x6e05;&#x695a; &#x76f4;&#x7387;">
+<arrowlink COLOR="#0000ff" DESTINATION="ID_1188685234" ENDARROW="Default" ENDINCLINATION="759;0;" ID="Arrow_ID_382100176" STARTARROW="Default" STARTINCLINATION="759;0;"/>
 </node>
-<node CREATED="1590419674880" ID="ID_1507874204" MODIFIED="1590419821821">
+</node>
+<node CREATED="1590419674880" ID="ID_1507874204" MODIFIED="1603360459341">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      supple &lt;su : down&gt; + &lt;pl : fold&gt; &#21487;&#25240;&#19979;&#21435; : &#26580;&#36575; (a): flexible
+      supple &lt;su : down&gt; + &lt;pl : fold&gt; &#21487;&#25240;&#19979;&#21435; : 1. &#26580;&#36575;,
+    </p>
+    <p>
+      &#26131;&#28771;&#30340; bending 2. &#36969;&#25033;&#21147;&#24375;&#30340;
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1590419735387" ID="ID_727557525" MODIFIED="1590675379686">
+<node CREATED="1590419735387" ID="ID_727557525" MODIFIED="1603361046615">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      supplant : &lt;sup : sub : under&gt; + plant: &#22312;&#19979;&#38754;&#31278; =&gt; to replace &#21462;&#20195;(v)
+      supplant : &lt;sup : sub : under&gt; + plant: &#22312;&#19979;&#38754;&#31278;<br />=&gt; to replace &#21462;&#20195;(v) = substitute
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1590419791469" ID="ID_509450308" MODIFIED="1590419806206" TEXT="replace">
-<edge COLOR="#0000ff" STYLE="bezier"/>
-</node>
 <node CREATED="1590419797982" ID="ID_1503929007" MODIFIED="1590419944961" TEXT="supersede : &#x53d6;&#x4ee3;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1590419949405" ID="ID_522733072" MODIFIED="1590678389296">
+<node CREATED="1590419949405" ID="ID_522733072" MODIFIED="1603361058300">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      supercilious : &lt;super : up&gt; &#30446;&#20013;&#28961;&#20154;&#30340; arrogant and disdainful
+      supercilious : &lt;super : up&gt; &#30446;&#20013;&#28961;&#20154;&#30340;<br />arrogant and disdainful
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
+<arrowlink COLOR="#0000ff" DESTINATION="ID_1925693578" ENDARROW="Default" ENDINCLINATION="1937;0;" ID="Arrow_ID_6342469" STARTARROW="Default" STARTINCLINATION="1937;0;"/>
 <node CREATED="1590420049930" ID="ID_1760502773" MODIFIED="1590676505006" TEXT="haughty (a)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1590424760198" ID="ID_363629349" MODIFIED="1591261071792" TEXT="haughtiness (n) = hauteur (n)">
@@ -874,17 +910,18 @@
 </node>
 <node CREATED="1590420071371" ID="ID_44637979" MODIFIED="1590424851287" TEXT="insolent (a) rude and lack of respect">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1590675431627" ID="ID_1868187280" MODIFIED="1590676567768">
+<node CREATED="1590675431627" ID="ID_1868187280" MODIFIED="1603457990466">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      impudent : &#28961;&#29702; &#25918;&#32902;&#30340;
+      impudent : &lt;pud : &#32670;&#24677;&gt; &#28961;&#24677;&#160;&#25918;&#32902;&#30340;<br />
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1590675596098" ID="ID_286440807" MODIFIED="1592227240714">
 <richcontent TYPE="NODE"><html>
@@ -991,21 +1028,23 @@
 </html></richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591642750525" ID="ID_689496704" MODIFIED="1591847214441">
+<node CREATED="1591642750525" ID="ID_689496704" MODIFIED="1603365499358">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      wary (a)
+      wary (a) &lt;war&gt; =&gt; &#23567;&#24515;&#35641;&#24910;
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
+<arrowlink DESTINATION="ID_689496704" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1567801855" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_689496704" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1567801855" SOURCE="ID_689496704" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <node CREATED="1591643430412" ID="ID_1295797421" MODIFIED="1591643448780" TEXT="weary (a) &#x7b4b;&#x75b2;&#x529b;&#x76e1;&#x7684;&#xff0c;&#x6975;&#x70ba;&#x75b2;&#x5026;&#x7684;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1591643574700" ID="ID_1822650034" MODIFIED="1591643587244" TEXT="wearisome">
+<node CREATED="1591643574700" ID="ID_1822650034" MODIFIED="1603365549803" TEXT="wearisome (a) &#x7121;&#x804a;&#x75b2;&#x5026;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1592479879473" ID="ID_484088852" MODIFIED="1592480054783">
 <richcontent TYPE="NODE"><html>
@@ -1043,27 +1082,27 @@
 </node>
 </node>
 </node>
-<node CREATED="1591847274702" ID="ID_1701736908" MODIFIED="1592480526341">
+<node CREATED="1591847274702" ID="ID_1701736908" MODIFIED="1603365360204">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      vigilant (a) : alert, watchful
+      vigilant (a) : alert, watchful<br />&lt;vig : vigor&#27963;&#21147;&gt;<br />
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <arrowlink COLOR="#0000ff" DESTINATION="ID_1037714657" ENDARROW="Default" ENDINCLINATION="2184;0;" ID="Arrow_ID_486962432" STARTARROW="Default" STARTINCLINATION="2186;0;"/>
-<node CREATED="1591847304816" ID="ID_255426836" MODIFIED="1592308643323">
+<node CREATED="1591847304816" ID="ID_255426836" MODIFIED="1603365053454">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      valiant (a): brave &#33521;&#21191;&#30340;&#65292;&#21191;&#29467;&#30340;
+      valiant (a): &lt;val : strong&gt; brave &#33521;&#21191;&#30340;&#65292;&#21191;&#29467;&#30340;
     </p>
   </body>
 </html></richcontent>
@@ -1071,12 +1110,23 @@
 <node CREATED="1591847360314" ID="ID_1761087776" MODIFIED="1591847371163" TEXT="valor(n) great courage">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
+<node CREATED="1603365060588" ID="ID_1547785046" MODIFIED="1603365083926" TEXT="&lt;val&gt; &#x5f37; ">
+<edge COLOR="#808080" STYLE="bezier"/>
+<node CREATED="1603365086254" ID="ID_248214923" MODIFIED="1603365123730" TEXT="prevail (v) &#x6d41;&#x884c; &lt;vail : strong&gt;"/>
+<node CREATED="1603365155034" ID="ID_1434339899" MODIFIED="1603365163648" TEXT="prevalent (a) &#x6d41;&#x884c;&#x7684;"/>
+</node>
+</node>
+<node CREATED="1603365369906" ID="ID_225992441" MODIFIED="1603365384560" TEXT="vigorous (a) &#x6709;&#x6d3b;&#x529b;&#x7684;">
+<edge COLOR="#808080" STYLE="bezier"/>
+<node CREATED="1603365394146" ID="ID_789019697" MODIFIED="1603365403659" TEXT="vigor (n)">
+<edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1590676353711" ID="ID_1567450188" MODIFIED="1590676431937" TEXT="discrete (a) : &#x500b;&#x5225; &#x96e2;&#x6563;&#x7684;">
+</node>
+<node CREATED="1590676353711" ID="ID_1567450188" MODIFIED="1603364915159" TEXT="discrete (a) : &#x500b;&#x5225; &#x96e2;&#x6563;&#x7684; &lt;&#x5169;&#x500b;e&#x662f;&#x96e2;&#x6563;&#x7684;&gt;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
 <node CREATED="1591168447066" ID="ID_544238330" MODIFIED="1591183858688" TEXT="judicious :&lt;jud :judge&gt; : 1. &#x8b39;&#x614e; 2.&#x660e;&#x667a;&#x7684;">
@@ -1092,12 +1142,23 @@
 <node CREATED="1591168798315" ID="ID_1284497237" MODIFIED="1591168878071" TEXT="sagacious (a) showing wisdom and good judgement">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1591168883615" ID="ID_268467679" MODIFIED="1591168896168" TEXT="shrewd (a)">
+<node CREATED="1591168883615" ID="ID_268467679" MODIFIED="1603459780122" TEXT="shrewd (a) &lt;&#x6ce8;&#x610f;&#x767c;&#x97f3;&gt;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
 </node>
-<node CREATED="1592367427444" ID="ID_286439973" MODIFIED="1592367430478" TEXT="prim (a) disliking things that is improper &#x62d8;&#x8b39;&#x7684;&#xff0c;&#x5047;&#x6b63;&#x7d93;&#x7684; ">
+<node CREATED="1592367427444" ID="ID_286439973" MODIFIED="1603459828378">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      prim (a) disliking things that is improper<br />&#25304;&#35641;&#30340;&#65292;&#21476;&#26495;&#30340;&#160;
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1592367432365" ID="ID_1596360752" MODIFIED="1592367442157" TEXT="prism (n)&#x7a1c;&#x93e1;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
@@ -1105,12 +1166,25 @@
 </node>
 </node>
 </node>
-<node CREATED="1590675951915" ID="ID_1876522990" MODIFIED="1590675985652" TEXT="injudicious">
+<node CREATED="1590675951915" ID="ID_1876522990" MODIFIED="1603459724701">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      injudicious&#160;: in + judicious<br />judicious &#26126;&#26234;&#30340;&#65292;&#23529;&#24910;&#30340;&lt;judge&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
 </node>
-<node CREATED="1592227072497" ID="ID_1417302189" MODIFIED="1592227101598" TEXT="indolent (a) &#x5370;&#x5ea6;&#x4eba; =&gt;&#x61f6;&#x6563;&#x7684;&#xff1b;&#x61f6;&#x60f0;&#x7684;"/>
+<node CREATED="1592227072497" ID="ID_1417302189" MODIFIED="1603361199706" TEXT="indolent (a) &#x5370;&#x5ea6;&#x4eba; =&gt;&#x61f6;&#x6563;&#x7684;&#xff1b;&#x61f6;&#x60f0;&#x7684;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
+</node>
 </node>
 <node CREATED="1590675825021" ID="ID_1856981030" MODIFIED="1590675877153">
 <richcontent TYPE="NODE"><html>
@@ -1127,7 +1201,7 @@
 <node CREATED="1592564621617" ID="ID_1146190000" MODIFIED="1592564638183" TEXT="effrontery (a) 1.&#x539a;&#x984f;&#x7121;&#x6065; 2. rude"/>
 <node CREATED="1592565652153" ID="ID_726952785" MODIFIED="1592565699976" TEXT="audacity (n) brave but rude shocking behavior"/>
 </node>
-<node CREATED="1590420074988" ID="ID_564132036" MODIFIED="1590420083724" TEXT="overbearing">
+<node CREATED="1590420074988" ID="ID_564132036" MODIFIED="1603361131592" TEXT="overbearing &#x9738;&#x9053;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1591260970295" ID="ID_577052572" MODIFIED="1591260994225" TEXT="hubris (n) arrogant pride">
@@ -1138,25 +1212,37 @@
 </node>
 <node CREATED="1591168154121" ID="ID_1227783112" MODIFIED="1591168234613" TEXT="imperious : &lt;imperr : emperor &#x7687;&#x5e1d;&gt;domineering and arrogant">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1591168239449" ID="ID_735968740" MODIFIED="1591168303732" TEXT="impervious (a) &lt;im : not&gt; + &lt;per:through&gt;:&#x7121;&#x6cd5;&#x901a;&#x904e;=&gt;&#x7121;&#x52d5;&#x65bc;&#x8877; not affected or influenced by sth">
-<edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1591169054671" ID="ID_1487870287" MODIFIED="1591169110425" TEXT="imperturbable : (a) &lt;not&gt; + &lt;perturb : &#x7169;&#x64fe;&gt; =&gt; &#x51b7;&#x975c;&#x7684;">
-<edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1591169151411" ID="ID_769849642" MODIFIED="1591169537505">
+<node CREATED="1591168239449" ID="ID_735968740" MODIFIED="1603457497331">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      perturb : &lt;per:through&#24478;&#38957;&#21040;&#23614;&gt; + &lt;turb: disturb&#25171;&#20098;&gt; =&gt; &#20351;&#19981;&#23433;(v)&#160; to disturb
+      impervious (a) &lt;im : not&gt; + &lt;per:through&gt;:&#28961;&#27861;&#36890;&#36942;=&gt;&#28961;&#21205;&#26044;&#34935;<br />1. &#19981;&#33021;&#28402;&#36879;&#30340; 2. &#19981;&#21463;&#24433;&#38911;&#30340;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+<edge COLOR="#00ff00" STYLE="bezier"/>
+<node CREATED="1591169054671" ID="ID_1487870287" MODIFIED="1591169110425" TEXT="imperturbable : (a) &lt;not&gt; + &lt;perturb : &#x7169;&#x64fe;&gt; =&gt; &#x51b7;&#x975c;&#x7684;">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+<node CREATED="1591169151411" ID="ID_769849642" MODIFIED="1603459972826">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      perturb : &lt;per:through&#24478;&#38957;&#21040;&#23614;&gt; + &lt;turb: disturb&#25171;&#20098;&gt;<br />=&gt; &#20351;&#19981;&#23433;(v)&#160;&#160;to disturb
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#808080" STYLE="bezier"/>
 <node CREATED="1591169515645" ID="ID_1665470144" MODIFIED="1598280050669" TEXT="agitate (v) &lt;ag:agent&gt; : &#x4f7f;&#x8e81;&#x52d5;&#x4e0d;&#x5b89;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1598279964168" ID="ID_439203313" MODIFIED="1598279969101" TEXT="turbulent (a)">
+<node CREATED="1598279964168" ID="ID_439203313" MODIFIED="1603459876321" TEXT="turbulent (a)">
 <node CREATED="1598279971792" ID="ID_1241516122" MODIFIED="1598279979152" TEXT="turbulence (n)">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
@@ -1174,13 +1260,38 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1591169283906" ID="ID_1125175830" MODIFIED="1591169401132" TEXT="nonchalant (a) :&lt;not&gt; + &lt;cha :hot&gt; &#x4e0d;&#x71b1;&#x60c5;=&gt;&#x4e0d;&#x95dc;&#x5fc3;&#x7684;&#xff0c;&#x51b7;&#x975c;&#x7684;">
+<node CREATED="1591169283906" ID="ID_1125175830" MODIFIED="1603460268216">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      nonchalant (a) :&lt;not&gt; + &lt;cha :hot&gt; &#19981;&#29105;&#24773;
+    </p>
+    <p>
+      =&gt;&#19981;&#38364;&#24515;&#30340;&#65292;&#20919;&#38748;&#30340;
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1592546637034" ID="ID_1878389775" MODIFIED="1592546643307" TEXT="nonchalance (n)">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
 </node>
 <node CREATED="1591169289698" ID="ID_396731982" MODIFIED="1591169358146" TEXT="composed (a) "/>
-<node CREATED="1592546558231" ID="ID_238644560" MODIFIED="1592546614470" TEXT="insouciant (a) &#x7121;&#x6182;&#x7121;&#x616e;&#xff0c;&#x4e0d;&#x5728;&#x4e4e;">
+<node CREATED="1592546558231" ID="ID_238644560" MODIFIED="1603460384263">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      insouciant (a) &#28961;&#24962;&#28961;&#24942;&#65292;&#19981;&#22312;&#20046;<br />&lt;souci : concern (from France)&gt; &#30332;&#38899;&#24618;
+    </p>
+  </body>
+</html>
+</richcontent>
 <node CREATED="1592546615578" ID="ID_1897960093" MODIFIED="1592546633563" TEXT="insouciance (n)">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
@@ -1230,19 +1341,20 @@
 <node CREATED="1590678539595" ID="ID_400137719" MODIFIED="1592307901333" TEXT="shallow">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <linktarget COLOR="#0000ff" DESTINATION="ID_400137719" ENDARROW="Default" ENDINCLINATION="2874;0;" ID="Arrow_ID_1604739080" SOURCE="ID_1759096174" STARTARROW="Default" STARTINCLINATION="2874;0;"/>
-<node CREATED="1590678564229" ID="ID_383256650" MODIFIED="1590678594943">
+<node CREATED="1590678564229" ID="ID_383256650" MODIFIED="1603456575826">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      hallow : respected
+      hallow : respected<br />&lt;&#24819;&#27861; : allow &#35201; respected&gt;
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1590678572661" ID="ID_1815839516" MODIFIED="1590678724656" TEXT="hollow:&#x7a7a;&#x5fc3;&#x7684;"/>
+<node CREATED="1590678572661" ID="ID_1815839516" MODIFIED="1603456947065" TEXT="hollow:&#x7a7a;&#x5fc3;&#x7684; &lt;hole&gt;"/>
 <node CREATED="1590678579525" ID="ID_656569054" MODIFIED="1591518168823">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1274,25 +1386,49 @@
 <node CREATED="1590684603101" ID="ID_1184128414" MODIFIED="1590684607901" TEXT="irritate">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590684610197" ID="ID_917150894" MODIFIED="1590684614466" TEXT="incense"/>
-<node CREATED="1590684614950" ID="ID_994569660" MODIFIED="1590684616873" TEXT="nettle"/>
-<node CREATED="1590684618494" ID="ID_1230941224" MODIFIED="1590684629874" TEXT="gall"/>
-<node CREATED="1590684630951" ID="ID_1285521011" MODIFIED="1590684727535" TEXT="vex"/>
-<node CREATED="1590684727835" ID="ID_175053888" MODIFIED="1590684737415" TEXT="splenetic (a)"/>
+<node CREATED="1590684610197" ID="ID_917150894" MODIFIED="1603457297460" TEXT="incense">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+</node>
+<node CREATED="1590684614950" ID="ID_994569660" MODIFIED="1603457345994" TEXT="nettle (v)">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+</node>
+<node CREATED="1590684618494" ID="ID_1230941224" MODIFIED="1603457332801" TEXT="gall (v)">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+</node>
+<node CREATED="1590684630951" ID="ID_1285521011" MODIFIED="1603457320762" TEXT="vex (v)">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+</node>
+<node CREATED="1590684727835" ID="ID_175053888" MODIFIED="1603457299316" TEXT="splenetic (a)">
+<edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
 </node>
 </node>
-<node CREATED="1591518128895" ID="ID_764293692" MODIFIED="1591537576193" TEXT="callow : immature and inexperienced&#x5e74;&#x7d93;&#x6c92;&#x7d93;&#x9a57;&#x7684;">
+</node>
+<node CREATED="1591518128895" ID="ID_764293692" MODIFIED="1603456470653" TEXT="callow : immature and inexperienced &#x5e74;&#x7d93;&#x6c92;&#x7d93;&#x9a57;&#x7684;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1591518450734" ID="ID_377171648" MODIFIED="1591537578537" TEXT="adolescent">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1591518454071" ID="ID_565483634" MODIFIED="1591537579337" TEXT="unfledged : &lt;un:not&gt; + fledged(&#x7fbd;&#x6bdb;&#x8c50;&#x6eff;&#x7684;)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
+<node CREATED="1603456506186" ID="ID_896398675" MODIFIED="1603456518763" TEXT="fully-fledged (a) &#x767c;&#x5c55;&#x6210;&#x719f;&#x7684;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1591518155441" ID="ID_776872935" MODIFIED="1591537575474" TEXT="mellow(a)&#x67d4;&#x548c;&#x7684;&#xff1b;&#x6eab;&#x548c;&#x7684;=mild&#xff0c;&#x6210;&#x719f;&#x7684;">
+</node>
+<node CREATED="1591518155441" ID="ID_776872935" MODIFIED="1603456825623">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      mellow(a)&#26580;&#21644;&#30340;&#65307;&#28331;&#21644;&#30340; =mild&#65292;&#25104;&#29087;&#30340;<br />&lt;&#24819;&#27861; : melon &#25104;&#29087;&#20102;&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
 </node>
@@ -1321,7 +1457,9 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1590940158179" ID="ID_1233411407" MODIFIED="1590940164344" TEXT="pension (n) &#x9000;&#x4f11;&#x91d1;"/>
+<node CREATED="1590940158179" ID="ID_1233411407" MODIFIED="1603457105005" TEXT="pension (n) &#x9000;&#x4f11;&#x91d1;">
+<edge COLOR="#0000ff" STYLE="bezier"/>
+</node>
 </node>
 <node CREATED="1591261275125" ID="ID_1678031738" MODIFIED="1591261285668" TEXT="superstition &#x8ff7;&#x4fe1;">
 <node CREATED="1591261286909" ID="ID_703115733" MODIFIED="1591261309495" TEXT="supposition (n) &#x63a8;&#x6e2c;">
@@ -1344,7 +1482,7 @@
 <node CREATED="1590400425020" ID="ID_1052277629" MODIFIED="1598280710822" TEXT="= tangled = intricate = knotty">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1598280577659" ID="ID_1646965342" MODIFIED="1598280724023" TEXT="elaborate (v) : &lt;labor&gt; : 1&#x8a73;&#x7d30;&#x7684;&#xff0c;2&#x8907;&#x96dc;&#x7684;">
+<node CREATED="1598280577659" ID="ID_1646965342" MODIFIED="1603349288116" TEXT="elaborate (v) : &lt;labor&gt; : 1&#x8a73;&#x7d30;&#x7684;&#xff0c;2&#x8907;&#x96dc;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1598280629669" ID="ID_1888188869" MODIFIED="1598280636446" TEXT="labor">
 <edge COLOR="#808080" STYLE="bezier"/>
@@ -1394,7 +1532,7 @@
 </node>
 </node>
 <node CREATED="1590162173984" ID="ID_180921279" MODIFIED="1590162190321" TEXT="plateau (n) &#x9ad8;&#x539f;"/>
-<node CREATED="1590162229105" ID="ID_1082617412" MODIFIED="1590162357093">
+<node CREATED="1590162229105" ID="ID_1082617412" MODIFIED="1603348076063">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1512,9 +1650,9 @@
 <node CREATED="1592653082038" ID="ID_225736743" MODIFIED="1592653093220" TEXT="tenacity (n)&#x56fa;&#x57f7;">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
-<node CREATED="1592653027945" ID="ID_1888267519" MODIFIED="1592653137095" TEXT="tenuous (a)&#x7ad9;&#x4e0d;&#x4f4f;&#x8173;&#x7684; &#xff0c;&#x8106;&#x5f31;&#x7684;">
+<node CREATED="1592653027945" ID="ID_1888267519" MODIFIED="1603348841169" TEXT="tenuous (a) &lt;tenu- : thin&gt;1. (idea) &#x7ad9;&#x4e0d;&#x4f4f;&#x8173;&#x7684; &#xff0c;&#x7e96;&#x7d30;&#x8106;&#x5f31;&#x7684;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1592653148599" ID="ID_382659331" MODIFIED="1592653156231" TEXT="slender">
+<node CREATED="1592653148599" ID="ID_382659331" MODIFIED="1603348550298" TEXT="slender 1. &#x82d7;&#x689d;=tenuous 2. &#x5c11;&#x91cf;=meager">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 <node CREATED="1592653151687" ID="ID_491447066" MODIFIED="1592653639700" TEXT="slight (a) 1.&#x5c11;&#x91cf;&#x7684; 2. &#x7e96;&#x7d30;&#x8106;&#x5f31;&#x7684; 3.&#x8f15;&#x8996; (v)">
@@ -1553,6 +1691,11 @@
 <edge COLOR="#808080" STYLE="bezier"/>
 <node CREATED="1590644992330" ID="ID_1200824334" MODIFIED="1590645008263" TEXT="transition (n) &#x904e;&#x6e21;"/>
 <node CREATED="1590645019036" ID="ID_67300149" MODIFIED="1590645055329" TEXT="translucent (a) : &lt;tran&gt; + &lt;luc : light&gt; : &#x534a;&#x900f;&#x660e;"/>
+<node CREATED="1603369136667" ID="ID_463869822" MODIFIED="1603369213354" TEXT="transcend (v)  &#x8d85;&#x8d8a; &#x8d85;&#x51fa;(&#x908a;&#x754c;)">
+<node CREATED="1603369216091" ID="ID_190198987" MODIFIED="1603369311487" TEXT="transcendent (a) &#x5091;&#x51fa;&#x7684;&#xff0c;&#x5353;&#x8d8a;&#x7684;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+</node>
 </node>
 <node CREATED="1590644828347" ID="ID_1942826778" MODIFIED="1590644841004" STYLE="bubble" TEXT="ephemeral">
 <edge COLOR="#0000ff" STYLE="bezier"/>
@@ -1669,7 +1812,7 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590520224731" ID="ID_805313976" MODIFIED="1590520312511" TEXT="impeccable (a)&#x5b8c;&#x7f8e;&#x7684;&#xff0c;&#x7121;&#x7455;&#x75b5;&#x7684; faultless">
+<node CREATED="1590520224731" ID="ID_805313976" MODIFIED="1603349275860" TEXT="impeccable &lt;im: not&gt; + &lt;pecc: peccadillo &#x932f;&#x8aa4;&gt; (a) &#x5b8c;&#x7f8e;&#x7684;&#xff0c;&#x7121;&#x7455;&#x75b5;&#x7684; faultless ">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1590520331336" ID="ID_1349047577" MODIFIED="1590520352353" TEXT="immaculate (a) perfectly clean and tidy">
 <edge COLOR="#0000ff" STYLE="bezier"/>
@@ -1678,14 +1821,14 @@
 </node>
 </node>
 </node>
-<node CREATED="1590162910992" ID="ID_1838435817" MODIFIED="1590403059558" POSITION="right">
+<node CREATED="1590162910992" ID="ID_1838435817" MODIFIED="1603360541050" POSITION="right">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      appease : to make less more angry &#25771;&#24179;&#65292;&#20351;&#24687;&#24594; = placate
+      appease : to make less more angry<br />&#25771;&#24179;&#65292;&#20351;&#24687;&#24594; = placate
     </p>
   </body>
 </html></richcontent>
@@ -1740,14 +1883,14 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1591632782390" ID="ID_225522560" MODIFIED="1598279446430" TEXT="exuberant (a) 1. &#x7cbe;&#x529b;&#x5145;&#x6c9b; 2. &#x690d;&#x7269;&#x8302;&#x5bc6;"/>
 <node CREATED="1591632793702" ID="ID_953903030" MODIFIED="1598279521297" TEXT="lavish &#x8c6a;&#x83ef;&#x7684; (+)(a) = deluxe = sumptuous = luxurious "/>
-<node CREATED="1591632795534" ID="ID_1945501959" MODIFIED="1592226344212">
+<node CREATED="1591632795534" ID="ID_1945501959" MODIFIED="1603360614928">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      lush (a) 1. &#26893;&#34987;&#33538;&#23494;&#30340; 2.&#26377;&#21560;&#24341;&#21147;&#30340;&#65292;&#32654;&#21619;&#30340;&#160;/lure(v)&#160;&#160;2.&#37202;&#39740;&#65292;&#36010;&#26479;
+      lush (a) 1. &#26893;&#34987;&#33538;&#23494;&#30340; 2.&#26377;&#21560;&#24341;&#21147;&#30340;(lure) 3. &#32654;&#21619;&#30340;<br />(n)&#160;&#37202;&#39740;
     </p>
   </body>
 </html></richcontent>

@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1590149004812" ID="ID_80731262" MODIFIED="1591633558604" STYLE="bubble">
+<node CREATED="1590149004812" ID="ID_80731262" MODIFIED="1602083537148" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -21,22 +21,43 @@
 <edge COLOR="#ff0033" WIDTH="2"/>
 </node>
 </node>
-<node CREATED="1590149198730" ID="ID_31304699" MODIFIED="1592359130077" POSITION="left" STYLE="bubble">
+<node CREATED="1590149198730" ID="ID_31304699" MODIFIED="1603496509301" POSITION="left" STYLE="bubble">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      calumniate &#27584;&#35607;&#20013;&#20663;
+      calumniate &#27584;&#35607;&#20013;&#20663;<br />&lt;lu : luster&gt; &#27584;&#35607;&#20351;&#27794;&#20809;&#28580;
     </p>
   </body>
 </html></richcontent>
 <edge COLOR="#0000ff" WIDTH="2"/>
-<node CREATED="1590149796134" ID="ID_740951195" MODIFIED="1592376199031" TEXT="culminate (v) &lt;culmin : summit&gt;&#x544a;&#x7d42; (+ in)">
+<node CREATED="1590149796134" ID="ID_740951195" MODIFIED="1603496542060">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      culminate (v) &#21578;&#32066; (+ in)<br />&lt;culmin : summit&gt; &lt;min : &#23665;&#38914;&#26159;&#26368;&#23567;&#19968;&#40670;&gt;
+    </p>
+  </body>
+</html></richcontent>
 <edge COLOR="#00ff00" WIDTH="2"/>
 </node>
-<node CREATED="1592359143766" ID="ID_369237235" MODIFIED="1592359166796" TEXT="cumulate (v) aggregate ">
+<node CREATED="1592359143766" ID="ID_369237235" MODIFIED="1603496424653">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      cumulate (v) aggregate&#160;<br />= accumulate
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1592359180711" ID="ID_1422273526" MODIFIED="1592359205985" TEXT="cumulative (a) &#x7d2f;&#x7a4d;&#x7684;&#xff1b;&#x6f38;&#x589e;&#x7684;">
 <edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
@@ -77,14 +98,14 @@
   </body>
 </html></richcontent>
 <node CREATED="1590637174177" ID="ID_1107953767" MODIFIED="1590637174689" TEXT="misconstrue : &lt;mis : wrong&gt; + &lt;construe :&#x89e3;&#x91cb;&gt; =&gt; &#x8aa4;&#x89e3;"/>
-<node CREATED="1590669798557" ID="ID_1409487011" MODIFIED="1590673795729">
+<node CREATED="1590669798557" ID="ID_1409487011" MODIFIED="1603496840348">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      mishap (n) &lt;mis&gt; + &lt;hap :chance&gt; : &#19981;&#24184; misfortune = misadventure = mischance
+      mishap (n) &lt;mis&gt; + &lt;hap :chance&gt; : &#19981;&#24184;<br />= misfortune = misadventure = mischance
     </p>
   </body>
 </html></richcontent>
@@ -99,7 +120,17 @@
     </p>
   </body>
 </html></richcontent>
-<node CREATED="1590670027904" ID="ID_42581030" MODIFIED="1590670075142" TEXT="haphazard : &lt;hap&gt; + &lt;hazard : (n)&#x5371;&#x96aa;&gt; &#x6709;&#x5371;&#x96aa;&#x7684;&#x6a5f;&#x6703; =&gt; &#x7121;&#x8a08;&#x756b;&#x7684;&#xff0c;&#x7121;&#x79e9;&#x5e8f;&#x7684;">
+<node CREATED="1590670027904" ID="ID_42581030" MODIFIED="1603496814943">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      haphazard : &lt;hap&gt; + &lt;hazard : (n)&#21361;&#38570;&gt;<br />&#26377;&#21361;&#38570;&#30340;&#27231;&#26371; =&gt; &#28961;&#35336;&#30059;&#30340;&#65292;&#28961;&#31209;&#24207;&#30340;
+    </p>
+  </body>
+</html></richcontent>
 <node CREATED="1590672395438" ID="ID_891940501" MODIFIED="1590672404270" TEXT="random, casual">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
@@ -116,9 +147,24 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590673823672" ID="ID_611369021" MODIFIED="1590673876887" TEXT="miscreant : &lt;mis&gt; +&lt;cre:cred, belief&gt; : &#x548c;&#x81ea;&#x5df1;&#x4fe1;&#x4ef0;&#x4e0d;&#x540c;=&gt;&#x60e1;&#x68cd;"/>
+<node CREATED="1590673823672" ID="ID_611369021" MODIFIED="1603497078713">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      miscreant : &lt;mis&gt; +&lt;cre:cred, belief&gt;<br />=&gt; &#21644;&#33258;&#24049;&#20449;&#20208;&#19981;&#21516;=&gt;&#24801;&#26829;
+    </p>
+  </body>
+</html></richcontent>
 </node>
-<node CREATED="1591642290944" ID="ID_1588867321" MODIFIED="1591642299756" TEXT="malady (n) illness"/>
+</node>
+<node CREATED="1591642290944" ID="ID_1588867321" MODIFIED="1591642299756" TEXT="malady (n) illness">
+<node CREATED="1603496781123" ID="ID_1938862439" MODIFIED="1603496789130" TEXT="melody (n) &#x65cb;&#x5f8b;">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+</node>
 </node>
 <node CREATED="1590150444962" ID="ID_543878608" MODIFIED="1590159119334" TEXT="&lt;-gn, gen : gene&#x57fa;&#x56e0;&gt;">
 <edge COLOR="#808080"/>
@@ -159,15 +205,15 @@
 </node>
 </node>
 <node CREATED="1590155365377" ID="ID_172713808" MODIFIED="1590155398754" TEXT="gentry (n) : &#x7d33;&#x58eb;&#xff0c;&#x4e0a;&#x7b49;&#x4eba;"/>
-<node CREATED="1590155426428" ID="ID_798762082" MODIFIED="1590155442054" TEXT="germ (n) &#x8d77;&#x6e90;">
-<node CREATED="1590155442054" ID="ID_1633065947" MODIFIED="1591638907460">
+<node CREATED="1590155426428" ID="ID_798762082" MODIFIED="1603497226083" TEXT="germ (n) 1. &#x8d77;&#x6e90; 2. &#x75c5;&#x83cc;">
+<node CREATED="1590155442054" ID="ID_1633065947" MODIFIED="1603497255771">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      <u>ger</u>mane (a) relevant (&#26377;&#30456;&#21516;&#36215;&#28304; : &#26377;&#38364;&#30340;)
+      germane (a) relevant (&#26377;&#30456;&#21516;&#36215;&#28304; : &#26377;&#38364;&#30340;)
     </p>
   </body>
 </html></richcontent>
@@ -195,26 +241,27 @@
   </body>
 </html></richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1590158831303" ID="ID_1497744015" MODIFIED="1590159016695">
+<node CREATED="1590158831303" ID="ID_1497744015" MODIFIED="1603497316876">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      opposite : &lt;op : against&gt;
+      opposite : &lt;op : against&gt; + &lt;pos : put, position&gt;
     </p>
   </body>
 </html></richcontent>
-<edge COLOR="#808080" STYLE="bezier"/>
+<edge COLOR="#ff0033" STYLE="bezier"/>
 </node>
 </node>
 </node>
 <node CREATED="1590155514265" ID="ID_1356601092" MODIFIED="1590155777849" TEXT="germinal (a) : in the earliest stage of development">
-<node CREATED="1590155781556" ID="ID_926963875" MODIFIED="1590155994428" TEXT="embryonic (a)">
+<node CREATED="1590155781556" ID="ID_926963875" MODIFIED="1603497397139" TEXT="embryonic (a)">
 <edge COLOR="#0000ff" STYLE="bezier"/>
-<node CREATED="1590156870783" ID="ID_461263965" MODIFIED="1590156994220" TEXT="&lt;em : in &gt; + &lt;bry : breed &#x7e41;&#x6b96;&gt;">
+<node CREATED="1590156870783" ID="ID_461263965" MODIFIED="1603497412276" TEXT="&lt;em : in &gt; + &lt;bry : breed &#x7e41;&#x6b96;&#xff0c;&#x80da;&#x80ce;&gt;">
 <edge COLOR="#808080" STYLE="bezier"/>
+<node CREATED="1603497413328" ID="ID_1550277940" MODIFIED="1603497435307" TEXT="embryo (n) &#x80da;&#x80ce;&#xff0c;&#x521d;&#x671f;"/>
 </node>
 </node>
 <node CREATED="1590157022300" ID="ID_856375978" MODIFIED="1590157067995" TEXT="rudimentary (a) &#x57fa;&#x790e;&#x7684; = fundamental">
@@ -223,8 +270,23 @@
 <node CREATED="1590648708655" ID="ID_543573781" MODIFIED="1590648715112" TEXT="rudimentary">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590155793830" ID="ID_107433715" MODIFIED="1590155808318" TEXT="seminal">
+<node CREATED="1590155793830" ID="ID_107433715" MODIFIED="1603497483831" TEXT="seminal : &lt;semin/semen : &#x7a2e;&#x5b50;&gt;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
+<node CREATED="1603497498587" ID="ID_1000661898" MODIFIED="1603497522140" TEXT="seminar (n) &#x7814;&#x8a0e;&#x6703;(&#x53ea;&#x662f;&#x521d;&#x6b65;&#x7684;&#x60f3;&#x6cd5;)">
+<edge COLOR="#ff0033" STYLE="bezier"/>
+</node>
+<node CREATED="1603497523851" ID="ID_155744842" MODIFIED="1603497618709">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      disseminate (v) &lt;semin: &#31278;&#23376;&gt; =&gt; &lt;&#24819;&#27861;&#20659;&#25773;(&#31278;&#23376;)&gt;<br />=&gt; &#20659;&#25773;(&#24605;&#24819;) =&gt; &#23459;&#20659;
+    </p>
+  </body>
+</html></richcontent>
+</node>
 </node>
 <node CREATED="1590648693438" ID="ID_1845730595" MODIFIED="1590648819321" TEXT="incipient (a) : &lt;in : on&gt; + &lt;cip : cap:head&gt; &#x958b;&#x982d;&#x7684;=&gt;&#x521d;&#x59cb;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
@@ -284,6 +346,19 @@
 </html></richcontent>
 <node CREATED="1590520756973" ID="ID_357173186" MODIFIED="1590520769425" TEXT="demographic (a) &#x4eba;&#x53e3;&#x7684; "/>
 <node CREATED="1590521882786" ID="ID_535089094" MODIFIED="1590521899670" TEXT="domicile(n) &#x4f4f;&#x6240;"/>
+<node CREATED="1603521381421" ID="ID_1942826554" MODIFIED="1603521451881">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pandemic (n) &lt;pan : &#27867;/&#20840;&#37096;&gt; + &lt;dem&gt;<br />=&gt; &#22823;&#35215;&#27169;&#27969;&#34892;&#30149;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 </node>
@@ -292,22 +367,34 @@
 </node>
 <node CREATED="1590516060584" ID="ID_764017326" MODIFIED="1590516869365" TEXT="indigent (a) &lt;in : not&gt; + &lt;digent : dignity&#x9ad8;&#x8cb4;&gt; very poor">
 <edge COLOR="#00ff00" STYLE="bezier"/>
-<node CREATED="1590516919920" ID="ID_1844114894" MODIFIED="1590517018994">
+<node CREATED="1590516919920" ID="ID_1844114894" MODIFIED="1603521787199">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      indignant (a) &#19981;&#21916;&#27489;&#27402;&#36020; =&gt; angry at injustice or because of undeserved blame
+      indignant (a) &lt;dig:&#23562;&#22196;&gt;<br />=&gt;&#22240;&#28858;&#19981;&#20844;&#24179;(&#27794;&#23562;&#22196;)&#32780;&#24996;&#24594;&#30340;(very angry because sth is not fair)
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 <node CREATED="1590517395174" ID="ID_318285983" MODIFIED="1590521501012" TEXT="destitute : &lt;des : away&gt; + &lt;stitute : build&gt;:&#x6c92;&#x5efa;&#x8a2d;=&gt;&#x8ca7;&#x56f0;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1590517405047" ID="ID_324526605" MODIFIED="1590521632353" TEXT="impecunious (a) &lt;im : not &gt; + &lt;pecu : property&gt; &#x6c92;&#x8ca1;&#x7522;&#xff0c;&#x8ca7;&#x7aae;&#x7684;">
+<node CREATED="1590517405047" ID="ID_324526605" MODIFIED="1603521598311">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      impecunious (a) &lt;im : not &gt; + &lt;pecu : property&gt;<br />=&gt; &#27794;&#36001;&#29986;&#65292;&#36007;&#31406;&#30340;
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1590521651039" ID="ID_868314269" MODIFIED="1590521668478" TEXT="&lt;pecu : property &#x8ca1;&#x7522;">
 <edge COLOR="#808080" STYLE="bezier"/>
@@ -323,11 +410,22 @@
 <node CREATED="1590516871037" ID="ID_256912200" MODIFIED="1590517214870" STYLE="bubble" TEXT="ingenuous (a) &#x771f;&#x8aa0;&#x7684;sencere">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
-<node CREATED="1590517342556" ID="ID_541804603" MODIFIED="1590520718186" TEXT="igneous (a) : &#x706b;&#x6210;&#x5ca9;&#x7684;">
+<node CREATED="1590517342556" ID="ID_541804603" MODIFIED="1603522929663">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      igneous (a) : &#28779;&#25104;&#23721;&#30340;<br />&lt;ign:&#28779;&#30340;&gt;ignite : burn and explode
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1590517128649" ID="ID_1602109705" MODIFIED="1592202054125">
+<node CREATED="1590517128649" ID="ID_1602109705" MODIFIED="1603522892162">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -348,8 +446,7 @@
       ingenious (a) : 1. clever, genius 2.&#24039;&#22890;&#22825;&#24037;&#30340;=creative
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ff00" STYLE="bezier"/>
 <node CREATED="1598279876948" ID="ID_1128888183" MODIFIED="1598279905481" TEXT="inventive (a)&#x5de7;&#x596a;&#x5929;&#x5de5;&#x7684;&#xff0c;&#x6709;&#x5275;&#x610f;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
@@ -360,16 +457,27 @@
 </node>
 </node>
 <node CREATED="1592149320423" ID="ID_1369529730" MODIFIED="1592149352990" TEXT="congenital (a) &#xff08;&#x75be;&#x75c5;)&#x5929;&#x751f;&#x7684;">
-<node CREATED="1592149401379" ID="ID_1890042087" MODIFIED="1592149446347" TEXT="innate &#x5929;&#x751f;&#x7684;">
+<node CREATED="1592149401379" ID="ID_1890042087" MODIFIED="1603522893740" TEXT="innate &#x5929;&#x751f;&#x7684;">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1592149467151" ID="ID_55831093" MODIFIED="1592479379048" TEXT="inane (a) pointless, senseless&#x611a;&#x8822;&#x7121;&#x610f;&#x7fa9;&#x7684;">
 <edge COLOR="#00ff00" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1592149404619" ID="ID_627114626" MODIFIED="1592149408094" TEXT="inbred">
+<node CREATED="1592149404619" ID="ID_627114626" MODIFIED="1603523324248" TEXT="inborn">
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
-<node CREATED="1592149572363" ID="ID_631656532" MODIFIED="1592149584580" TEXT="hereditary (a)&#x907a;&#x50b3;&#x7684;&#xff0c;&#x4e16;&#x8972;&#x7684;">
+<node CREATED="1592149572363" ID="ID_631656532" MODIFIED="1603523383861">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      hereditary (a)1. &#36986;&#20659;&#30340; 2. &#19990;&#35186;&#30340;
+    </p>
+  </body>
+</html>
+</richcontent>
 <edge COLOR="#0000ff" STYLE="bezier"/>
 <node CREATED="1592149585779" ID="ID_839730440" MODIFIED="1592149597308" TEXT="heritage (n)&#x907a;&#x7522;">
 <edge COLOR="#ff0033" STYLE="bezier"/>
@@ -392,7 +500,11 @@
 <edge COLOR="#0000ff" STYLE="bezier"/>
 </node>
 </node>
-<node CREATED="1592308255718" ID="ID_652376269" MODIFIED="1592308293195" TEXT="euphemism (n) &lt;eu:good&gt; + &lt;phe:speak&gt; &#x59d4;&#x5a49;&#x8a9e;"/>
+<node CREATED="1592308255718" ID="ID_652376269" MODIFIED="1603523533779" TEXT="euphemism (n) &lt;eu:good&gt; + &lt;phe:speak&gt; &#x59d4;&#x5a49;&#x8a9e;">
+<node CREATED="1603523418175" ID="ID_1985200706" MODIFIED="1603523453049" TEXT="ephemeral (a) &#x77ed;&#x66ab;&#x7684;">
+<edge COLOR="#00ff00" STYLE="bezier"/>
+</node>
+</node>
 <node CREATED="1592308305680" ID="ID_596301719" MODIFIED="1592308329822" TEXT="euphonious (a) &lt;eu:good&gt; + &lt;phon:sound&gt; &#x8072;&#x97f3;&#x597d;&#x807d;"/>
 <node CREATED="1592308339538" ID="ID_315619109" MODIFIED="1592308364255" TEXT="euthanasia (n) &lt;eu:good&gt; + &lt;thanatos :&#x6b7b;&#x795e;&gt; =&gt; &#x5b89;&#x6a02;&#x6b7b;"/>
 </node>
@@ -428,7 +540,19 @@
 <node CREATED="1590522220336" ID="ID_946784785" MODIFIED="1590522225813" TEXT="deleterious (a)"/>
 <node CREATED="1592398927825" ID="ID_1754184205" MODIFIED="1592398960167" TEXT="pernicious (a) &lt;per:through&gt; + &lt;nic:noxious&#x6709;&#x5bb3;&#x7684;&gt;"/>
 </node>
-<node CREATED="1590151255263" ID="ID_1137707093" MODIFIED="1590151304825" TEXT="sinister (a) : sister &#x6700;&#x90aa;&#x60e1;"/>
+<node CREATED="1590151255263" ID="ID_1137707093" MODIFIED="1603523641528">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      sinister (a) : &lt;&#24819;&#27861;: sister &#26368;&#37034;&#24801;&gt;
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
 </node>
 </node>
 <node CREATED="1590149223923" ID="ID_96993885" MODIFIED="1590150243406" POSITION="left" STYLE="bubble" TEXT="slander">
